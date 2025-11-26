@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008953933332",
+    "project_id": "unity-a42d6",
+    "storage_bucket": "unity-a42d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008953933332:android:0e7a11212a7c939385f101",
+        "android_client_info": {
+          "package_name": "com.cpmpany.unity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdRwaaLWvQe77Roh77x2d5kAxpldoPMZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

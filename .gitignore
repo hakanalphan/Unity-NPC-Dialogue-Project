@@ -1,0 +1,30 @@
+# Unity temp / cache
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+UserSettings/
+MemoryCaptures/
+
+# Firebase büyük plugin dosyalarını ekleme
+Assets/Firebase/Plugins/
+Assets/Firebase/Editor/
+
+# Rider / VS / VSCode
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.unityproj
+*.tmp
+*.pdb
+*.mdb
+*.svd
+*.opendb
+*.VC.db
+
+# Sisteme özel
+.DS_Store
+Thumbs.db

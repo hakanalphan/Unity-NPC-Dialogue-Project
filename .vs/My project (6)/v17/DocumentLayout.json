@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hakan\\My project (6)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hakan\\My project (6)\\Assets\\Scripts\\NPCInteractionUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NPCInteractionUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hakan\\My project (6)\\Assets\\Scripts\\FirebaseAuthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\FirebaseAuthManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hakan\\My project (6)\\Assets\\Scripts\\NPCCharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NPCCharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hakan\\My project (6)\\Assets\\Scripts\\QuestManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\QuestManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NPCCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\hakan\\My project (6)\\Assets\\Scripts\\NPCCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCCharacter.cs",
+              "ToolTip": "C:\\Users\\hakan\\My project (6)\\Assets\\Scripts\\NPCCharacter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCCharacter.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T15:00:48.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuestManager.cs",
+              "DocumentMoniker": "C:\\Users\\hakan\\My project (6)\\Assets\\Scripts\\QuestManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QuestManager.cs",
+              "ToolTip": "C:\\Users\\hakan\\My project (6)\\Assets\\Scripts\\QuestManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QuestManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:53:07.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NPCInteractionUI.cs",
+              "DocumentMoniker": "C:\\Users\\hakan\\My project (6)\\Assets\\Scripts\\NPCInteractionUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPCInteractionUI.cs",
+              "ToolTip": "C:\\Users\\hakan\\My project (6)\\Assets\\Scripts\\NPCInteractionUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPCInteractionUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:34:25.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirebaseAuthManager.cs",
+              "DocumentMoniker": "C:\\Users\\hakan\\My project (6)\\Assets\\Scripts\\FirebaseAuthManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FirebaseAuthManager.cs",
+              "ToolTip": "C:\\Users\\hakan\\My project (6)\\Assets\\Scripts\\FirebaseAuthManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FirebaseAuthManager.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAowKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T12:10:24.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
